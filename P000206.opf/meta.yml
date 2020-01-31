@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅༔ གསང་སྔགས་ལམ་གྱི་རིམ་པ་རིན་པོ་ཆེ་གསལ་བའི་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ༔
+  authors:
+  - མཛད་པ་པོ། ཨོ་རྒྱན་གྱི་སློབ་དཔོན་ཆེན་པོ་པདྨ་སཾ་བྷ་ཝ༔
+  sku: SHE-RTD-018
+  layers:
+  - book_title
+  - author
+  - chapter_title
+web_metadata:
+  title:
+    en: The Precious Garland:A Commentary on the “Precious Illuminating Lamp for the
+      Practice of Secret Mantra”
+    bo: གསང་སྔགས་ལམ་གྱི་རིམ་པ་རིན་པོ་ཆེ་གསལ་བའི་སྒྲོན་མེ་འགྲེལ་པ་རིན་ཆེན་ཕྲེང་བ་དང་བཅས་བ་ཞེས་བྱ་བ་བཞུགས་སོ༔
+  collection:
+    en: Treasury of Precious Termas–  Book 18
+    bo: རིན་ཆེན་གཏེར་མཛོད།–  དེབ། ༡༨
+  author:
+    en: Padmasambhava
+    bo: པདྨ་སཾ་བྷ་བ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-018
+  category:
+    en: Stages of the Path
+    bo: ལམ་རིམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-018.epub
+  description:
+    en: ''
+    bo: ''
